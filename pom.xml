@@ -22,13 +22,6 @@
 		</plugins>
 	</build>
 	<dependencies>
-		<!-- https://mvnrepository.com/artifact/com.microsoft.azure/azure-functions-maven-plugin -->
-		<dependency>
-		    	<groupId>com.microsoft.azure</groupId>
-		    	<artifactId>azure-functions-maven-plugin</artifactId>
-			<version>1.21.0</version>
-		</dependency>
-
 		<dependency>
 			<groupId>com.oracle.database.jdbc</groupId>
 			<artifactId>ojdbc8</artifactId>
